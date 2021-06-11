@@ -2,5 +2,5 @@
 
 ### Hello 👋
 
-- :orange_book: Focusing on Embeded C
+- :orange_book: Focusing on Embeded C and Python
 - :meat_on_bone: Meat lover
